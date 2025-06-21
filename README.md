@@ -62,4 +62,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  Tuesday 17 June 2025 url is now available and working
+
+
+Update: Auth links
