@@ -64,4 +64,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update: Auth links
+
+
+Update: Icon links
