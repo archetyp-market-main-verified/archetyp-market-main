@@ -68,4 +68,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  24.06.2025 04:40
+
+
+Update: url is now working correctly
