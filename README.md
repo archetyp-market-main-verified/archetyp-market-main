@@ -76,4 +76,6 @@ This guide is intended solely for educational purposes. The information provided
 
 
 
-Update:  07/14/2025 url has been restored
+
+
+Update: APIs updated
